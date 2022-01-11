@@ -4,10 +4,11 @@
 
 ## I'm a Software Development Engineer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play piano
+- 🌱 I’m currently learning everything. 🤣
+- 👯 I love to solve challenging world-scale problems from an engineering perspective. 
+- 👨🏼‍💻 Software Engineer gives me a chance to force the limits of imagination.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to draw and play piano.
 
 ### Connect with me:
 
