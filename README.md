@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thisishus?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thisishus/follow?original_referer=https%3A%2F%2Fgithub.com%thisishus&screen_name=thisishus)
 
-## I'm a Developer!!
+## I'm a Software Development Engineer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning everything. 🤣
+- 👯 I love to solve challenging world-scale problems from an engineering perspective. 
+- 👨🏼‍💻 Software Engineer gives me a chance to force the limits of imagination.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to draw and play piano.
 
 ### Connect with me:
 
