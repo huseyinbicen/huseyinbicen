@@ -1,6 +1,6 @@
 # Hello there, I'm Huseyin
 
-### I'm a Software Development Engineer!!
+## I'm a Software Development Engineer!!
 
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I love to solve challenging world-scale problems from an engineering perspective. 
@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play piano.
 
-## Connect with me:
+### Connect with me:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thisishus?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thisishus/follow?original_referer=https%3A%2F%2Fgithub.com%thisishus&screen_name=thisishus)
 [![Linkedin: andlukyane](https://img.shields.io/badge/-Huseyin%20Bicen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbicen/)](https://www.linkedin.com/in/huseyinbicen/) 
@@ -36,4 +36,3 @@
 
 <br />
 <br />
----
