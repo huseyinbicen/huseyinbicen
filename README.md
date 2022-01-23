@@ -18,20 +18,25 @@
 <br />
 
 ### Languages:
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" />
+<img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/240/000000/c-sharp-logo-2.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/240/000000/javascript--v1.png" />
+<img align="left" alt="SQL" width="30px" src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/64/000000/external-sql-file-types-dreamstale-lineal-dreamstale.png"/>
+<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/240/000000/html-5--v1.png" />
+<img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png" />
 
 
 <br />
 <br />
 
 ### Tools:
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+<img align="left" alt="Bash" width="26px" src="https://img.icons8.com/plasticine/200/000000/bash.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/240/000000/bootstrap.png" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png" />
+<img align="left" alt="Intellij Idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png"/>
+<img align="left" alt="Visual Code" width="26px" src="https://img.icons8.com/color/240/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="Postman" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
+<img align="left" alt="Dbeaver" width="26px" src="https://img.icons8.com/dusk/256/000000/dbeaver.png"/>
 
 <br />
 <br />
