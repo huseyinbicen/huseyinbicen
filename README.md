@@ -1,6 +1,4 @@
-### Hi there, I'm Huseyin
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/thisishus?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thisishus/follow?original_referer=https%3A%2F%2Fgithub.com%thisishus&screen_name=thisishus)
+### Hello there, I'm Huseyin
 
 ## I'm a Software Development Engineer!!
 
@@ -10,13 +8,11 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play piano.
 
-### Connect with me:
-
-![Twitter Follow](https://img.shields.io/twitter/follow/thisishus?style=social)<br />
+## Connect with me:
+[![Twitter Follow](https://img.shields.io/twitter/follow/thisishus?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thisishus/follow?original_referer=https%3A%2F%2Fgithub.com%thisishus&screen_name=thisishus)
 [![Linkedin: andlukyane](https://img.shields.io/badge/-Huseyin%20Bicen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbicen/)](https://www.linkedin.com/in/huseyinbicen/) 
 
 <br />
-
 ### Languages:
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/240/000000/c-sharp-logo-2.png" />
@@ -25,10 +21,8 @@
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/240/000000/html-5--v1.png" />
 <img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png" />
 
-
 <br />
 <br />
-
 ### Tools:
 <img align="left" alt="Bash" width="26px" src="https://img.icons8.com/plasticine/200/000000/bash.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/240/000000/bootstrap.png" />
@@ -40,5 +34,4 @@
 
 <br />
 <br />
-
 ---
