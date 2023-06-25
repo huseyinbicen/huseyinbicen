@@ -25,9 +25,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=huseyinbicen&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->"https://img.icons8.com/color/240/000000/gitlab.png"/>
-<img align="left" alt="Github" width="30px" src="https://img.icons8.com/glyph-neue/256/000000/github.png"/>
-<img align="left" alt="Jenkins" width="30px" src="https://img.icons8.com/color/240/000000/jenkins.png"/>
-
 <br />
 <br />
