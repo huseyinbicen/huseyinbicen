@@ -21,18 +21,6 @@
 
 ---
 
-## ✨ Featured projects
-- [project-name-1](https://github.com/huseyinbicen/project-name-1) — one-line description explaining the project's value.
-- [project-name-2](https://github.com/huseyinbicen/project-name-2) — highlight tech used and a result or metric.
-
-> Tip: replace the two placeholders above with your actual repo names and a short description.
-
----
-
-## 📬 Contact & social
-- Website: https://huseyinbicen.com
-- LinkedIn: https://www.linkedin.com/in/huseyinbicen
-- Email: huseynbicen@gmail.com
 
 
 
@@ -72,11 +60,11 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=huseyinbicen&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
-	<br />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinbicen&theme=dark&hide_border=false" alt="GitHub Streak" />
-	<br />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinbicen&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyinbicen&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinbicen&theme=dark&hide_border=false" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinbicen&layout=compact&theme=dark&hide_border=false" alt="Top languages" />
 </div>
 
 
