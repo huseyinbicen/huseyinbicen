@@ -58,17 +58,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 GitHub Status
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyinbicen&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinbicen&theme=dark&hide_border=false" alt="GitHub streak" />
+  <a href="https://github.com/huseyinbicen" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=huseyinbicen&theme=github-dark&hide_border=true" alt="GitHub streak" />
+  </a>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinbicen&layout=compact&theme=dark&hide_border=false" alt="Top languages" />
+  <a href="https://github.com/huseyinbicen" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyinbicen&theme=github-dark&hide_border=true" alt="Contribution activity graph" />
+  </a>
+  <br />
+    <a href="https://github.com/huseyinbicen" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huseyinbicen&theme=github_dark" alt="Rsdfsuage" />
+  </a>
+    <br />
+  <a href="https://github.com/huseyinbicen" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huseyinbicen&theme=github_dark" alt="Repos per language" />
+  </a>
+  <a href="https://github.com/huseyinbicen" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huseyinbicen&theme=github_dark" alt="Most commit language" />
+  </a>
 </div>
-
-
----
 
 
 ---
@@ -79,7 +90,24 @@
 
 ---
 <div align="center">
+  <h3>📈 Profile metrics</h3>
 	<a href="https://github.com/huseyinbicen" target="_blank">
-		<img src="https://komarev.com/ghpvc/?username=huseyinbicen&color=blue&style=flat" alt="Profile Visits" />
+  <img src="https://komarev.com/ghpvc/?username=huseyinbicen&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile views" />
 	</a>
+  <a href="https://github.com/huseyinbicen?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/huseyinbicen?label=Followers&style=for-the-badge" alt="Followers" />
+  </a>
+  <a href="https://github.com/huseyinbicen?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhuseyinbicen&query=%24.public_repos&label=Public%20Repos&style=for-the-badge" alt="Public repos" />
+  </a>
+  <a href="https://github.com/huseyinbicen" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhuseyinbicen&query=%24.public_gists&label=Public%20Gists&style=for-the-badge" alt="Public gists" />
+  </a>
+  <a href="https://github.com/huseyinbicen?tab=following" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhuseyinbicen&query=%24.following&label=Following&style=for-the-badge" alt="Following" />
+  </a>
+  <a href="https://github.com/huseyinbicen?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/stars/huseyinbicen?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge" alt="Total stars" />
+  </a>
+
 </div>
