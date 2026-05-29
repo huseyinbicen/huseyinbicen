@@ -32,7 +32,7 @@
   <a href="https://huseyinbicen.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:huseynbicen@gmail.com" target="_blank">
+  <a href="mailto:contact@huseyinbicen.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
